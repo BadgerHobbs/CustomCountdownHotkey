@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCountdownHotkey", "CustomCountdownHotkey\CustomCountdownHotkey.csproj", "{3152990F-97F2-4176-ACBB-8884363636AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3152990F-97F2-4176-ACBB-8884363636AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3152990F-97F2-4176-ACBB-8884363636AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3152990F-97F2-4176-ACBB-8884363636AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3152990F-97F2-4176-ACBB-8884363636AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4636D43-C5B0-41A1-AE3B-206D5A74C2C9}
+	EndGlobalSection
+EndGlobal
