@@ -23,6 +23,11 @@ namespace CustomCountdownHotkey
         public MainWindow()
         {
             InitializeComponent();
+
+            CountdownManager countdownManager = new CountdownManager();
+            countdownManager.LoadConfigFile();
+            countdownManager.timerLabel = TimerLabel;
+            countdownManager.Subscribe();
         }
     }
 }
